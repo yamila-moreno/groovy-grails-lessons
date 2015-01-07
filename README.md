@@ -20,3 +20,10 @@ Groovy, Grape, Spock, Travis
 https://github.com/yamila-moreno/groovyFizzBuzz
 
 http://moduslaborandi.net/groovy-101-grape-and-tests-with-spock/
+
+groovySwapi
+===========
+
+Groovy, Grape, Spock, Travis
+
+https://github.com/yamila-moreno/groovySWAPI
