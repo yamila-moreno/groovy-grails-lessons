@@ -27,3 +27,12 @@ groovySwapi
 Groovy, Grape, Spock, Travis, HTTP-Builder
 
 https://github.com/yamila-moreno/groovySWAPI
+
+gradleBooks
+===========
+
+Gradle, Groovy, Travis, Jenkins
+
+https://github.com/yamila-moreno/gradleBooks
+
+http://moduslaborandi.net/groovy-101-gradle-travis-and-jenkins/
